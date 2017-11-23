@@ -1,0 +1,16 @@
+#logo-container  {
+
+        width: 150px;
+        height: 85px;
+        -webkit-transform: skew(20deg);
+        -moz-transform: skew(20deg);
+        -o-transform: skew(20deg);
+        background: red;
+}
+#logo-container h1  {
+        -webkit-transform: skew(-20deg);
+        -moz-transform: skew(-20deg);
+        -o-transform: skew(-20deg);
+        padding-top: 20%;
+        padding-left: 25%;
+}
