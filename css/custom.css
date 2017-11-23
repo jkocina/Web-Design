@@ -8,9 +8,22 @@
         background: red;
 }
 #logo-container a  {
+
         -webkit-transform: skew(-20deg);
         -moz-transform: skew(-20deg);
         -o-transform: skew(-20deg);
         padding-top: 20%;
-        padding-left: 25%;
+        padding-left: 15%;
+        color: black;
+        font-size: 30px;
+}
+
+#logo-container p  {
+
+        -webkit-transform: skew(-20deg);
+        -moz-transform: skew(-20deg);
+        -o-transform: skew(-20deg);
+        position: relative;
+        left: 20px;
+
 }
